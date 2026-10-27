@@ -1,2 +1,4 @@
-# Datos
-Esta carpeta contiene el dataset utilizado para el desarrollo del proyecto.
+# DataXperience
+Proyecto Final DataXperience
+Análisis de precios de alojamientos en Bogotá
+Los integrantes de este Proyecto son:
