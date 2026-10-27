@@ -1,5 +1,2 @@
-# DataXperience
-Proyecto Final
-Análisis de precios de alojamientos en Bogotá
-
-Los integrantes de este Proyecto son:
+# Datos
+Esta carpeta contiene el dataset utilizado para el desarrollo del proyecto.
