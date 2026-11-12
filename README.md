@@ -20,6 +20,11 @@ El análisis está organizado de forma secuencial en tres grandes etapas:
 2. **Etapa 2 - Estadística Descriptiva y Preprocesamiento:** Cálculo de medidas de tendencia central (media, mediana, moda) y dispersión, análisis de distribución por tipo de alojamiento, detección de *outliers*.
 3. **Etapa 3 - Modelado Matemático y Storytelling:** Construcción y evaluación de un modelo de regresión lineal con `Scikit-Learn`, interpretación de hallazgos y conclusiones estratégicas para la toma de decisiones.
 
+## 👥 Equipo
+* **Paula Andrea Amador Barrios**
+* **Julian David Barbosa Duarte**
+* **Brenda Jeritza Gomez Espitia**
+
 ## 🛠️ Herramientas utilizadas
 
 * **Manipulación y Análisis:** `Pandas` y `NumPy`.
